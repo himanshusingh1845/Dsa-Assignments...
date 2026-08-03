@@ -239,6 +239,7 @@ Array after rotation:
 
 
 #include <stdio.h>
+#include<math.h>
 
 
 
